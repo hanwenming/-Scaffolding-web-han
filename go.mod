@@ -1,4 +1,4 @@
-module "org.beijing.com/ Scaffolding-web-han"
+module "org.beijing.com/Scaffolding-web-han/Scaffolding-web-han"
 
 go 1.14
 
