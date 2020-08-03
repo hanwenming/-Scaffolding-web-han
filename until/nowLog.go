@@ -1,4 +1,4 @@
-package nowLog
+package until
 
 import (
 	blog "github.com/higker/logker"
